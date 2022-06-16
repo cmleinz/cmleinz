@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://c.tenor.com/uT0iwOXKECUAAAAC/tenor.gif" width="200"/>
+  <img src="https://c.tenor.com/uT0iwOXKECUAAAAC/tenor.gif" width="300"/>
 </div>
 
 <div id="badges" align="center">
